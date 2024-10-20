@@ -24,6 +24,7 @@ public class TestGame extends ApplicationAdapter {
         batch.begin();
         batch.draw(image, 140, 210);
         batch.end();
+
     }
 
     @Override
